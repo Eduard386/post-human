@@ -1,0 +1,38 @@
+[
+  {
+    "virtualId": "001",
+    "name": "Patrick Rees",
+    "instagramEmail": "robco386@gmail.com",
+    "instagramPassword": "Qaz21Wsx",
+    "instagramUrl": "https://www.instagram.com/robco386/",
+    "instagramUsername": "robco386",
+    "twitterEmail": "robco386@gmail.com",
+    "twitterPassword": "Qaz21Wsx",
+    "twitterUrl": "https://twitter.com/robco386/",
+    "twitterUsername": "robco386"
+  },
+  {
+    "virtualId": "002",
+    "name": "Nicolas Parrish",
+    "instagramEmail": "robco387@gmail.com",
+    "instagramPassword": "Qaz21Wsx",
+    "instagramUrl": "https://www.instagram.com/bobmurano/",
+    "instagramUsername": "bobmurano",
+    "twitterEmail": "robco387@gmail.com",
+    "twitterPassword": "Qaz21Wsx",
+    "twitterUrl": "https://twitter.com/nicolas_parrish/",
+    "twitterUsername": "nicolas_parrish"
+  },
+  {
+    "virtualId": "003",
+    "name": "Xander Plant",
+    "instagramEmail": "robco388@gmail.com",
+    "instagramPassword": "Qaz21Wsx",
+    "instagramUrl": "https://www.instagram.com/plant_xander/",
+    "instagramUsername": "plant_xander",
+    "twitterEmail": "robco388@gmail.com",
+    "twitterPassword": "Qaz21Wsx",
+    "twitterUrl": "https://twitter.com/plant_xander/",
+    "twitterUsername": "plant_xander"
+  }
+]

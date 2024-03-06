@@ -1,0 +1,16 @@
+{
+  "name": "testtaskFSecure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startServer": "./node_modules/.bin/webdriver-manager update && ./node_modules/.bin/webdriver-manager start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "protractor": "^7.0.0",
+    "read-excel-file": "4.1.0"
+  }
+}
